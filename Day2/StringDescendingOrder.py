@@ -17,6 +17,7 @@ def solution(s):
 s_1 = 'Zbcdefg'
 print(solution(s_1))
 
+# 좋은 풀이
 def solution_best(s):
 
     return ''.join(sorted(list(s), reverse = True))
