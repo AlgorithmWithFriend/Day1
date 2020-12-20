@@ -4,5 +4,5 @@
 ## 예산
   코딩테스트 연습 > Summer/Winter Coding(~2018) > 예산
 
-## 지도
+## 보물지도 
   코딩테스트 연습 > 2018 KAKAO BLIND RECRUITMENT > [1차] 보물지도
