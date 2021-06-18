@@ -36,7 +36,7 @@ def solution_error(scovile, K):
 # print(solution_error(scovile_1, K_1))
 
 '''
-heap에서 pop을 하지 않을 때의 풀이
+
 '''
 def solution_other(scovile, K):
     answer = 0
